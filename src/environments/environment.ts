@@ -7,6 +7,6 @@ export const environment = {
   production: false,
 
   dialogflow: {
-    angularAIBot: '9cf3359f6bb849c785eb28e3e4b8003e' // read-only access
+    angularAIBot: '06e9a0d07c644d1e8e63a1ab942ac0be' // read-only access
   }
 };
